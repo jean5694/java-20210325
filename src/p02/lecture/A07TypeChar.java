@@ -28,5 +28,7 @@ public class A07TypeChar {
 //		charVar = ''; //not ok
 		charVar = '\u10E6';
 		System.out.println(charVar);
+		charVar = 4326;
+		System.out.println(charVar);
 	}
 }
