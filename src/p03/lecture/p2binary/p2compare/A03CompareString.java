@@ -2,6 +2,7 @@ package p03.lecture.p2binary.p2compare;
 
 public class A03CompareString {
 	public static void main(String[] args) {
+		//스트링 크기 비교 불가
 		String a = "abc";
 		String b = "def";
 		
