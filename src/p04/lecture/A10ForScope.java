@@ -1,6 +1,6 @@
 package p04.lecture;
 
-public class A09ForScope {
+public class A10ForScope {
 	public static void main(String[] args) {
 		int a = 10;
 		
