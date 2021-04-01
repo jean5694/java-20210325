@@ -18,4 +18,3 @@ public class A19DoWhile {
 		System.out.println("프로그램 종료...");
 	}
 }
-S
