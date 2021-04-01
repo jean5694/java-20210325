@@ -1,6 +1,6 @@
 package p04.textbook;
 
-public class ForSumFromTo100Example2 {
+public class ForSumFrom1To100Example2 {
 	public static void main(String[] args) {
 		int sum = 0 ;
 		
