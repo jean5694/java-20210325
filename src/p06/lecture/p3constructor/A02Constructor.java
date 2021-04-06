@@ -8,6 +8,9 @@ public class A02Constructor {
 	
 	public static void main(String[] args) {
 		Student s1 = new Student();
+		s1.name = "java";
+		
+		Student s2 = new Student("java");
 		
 	}
 
