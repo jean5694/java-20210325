@@ -28,10 +28,18 @@ public class Exercise08 {
 			}
 		}
 		
+		/*
+		int itemNum = 0;
+		for (int i = 0; i < array.length; i++) {
+			itemNum += array[i].length;
+		}
+		*/
+		
 		System.out.println("sum : " + sum);
 
 
 		avg = (double) sum / cnt;      
+//		avg = (double) sum / itemNum;   
 		System.out.println("avg : " + avg);
 	}
 }
