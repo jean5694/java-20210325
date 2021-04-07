@@ -1,6 +1,6 @@
 package p06.lecture.p3constructor;
 
-public class A01Constructor {
+public class A01Constructor_0406 {
 	// 생성자 (Constructor)
 	// 객체 (instance)가 생성될 때 해야하는 일들이 작성되는 코드 블럭
 	// 주로 필드를 초기화하는 데 사용됨

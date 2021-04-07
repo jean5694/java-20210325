@@ -1,6 +1,6 @@
 package p06.lecture.p2field;
 
-public class A02Field {
+public class A02Field_0406 {
 	public static void main(String[] args) {
 		int i = 3;
 		String str = "java";

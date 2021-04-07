@@ -1,6 +1,6 @@
 package p06.lecture.p1class;
 
-public class A01Class {
+public class A01Class_0406 {
 	public static void main(String[] args) {
 		// javascript에서 객체(object)만들기
 		

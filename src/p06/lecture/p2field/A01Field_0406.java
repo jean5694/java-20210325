@@ -1,6 +1,6 @@
 package p06.lecture.p2field;
 
-public class A01Field {
+public class A01Field_0406 {
 	public static void main(String[] args) {
 		//javascript
 		/*
