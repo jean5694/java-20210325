@@ -1,4 +1,4 @@
-package p06.textbook.s06080704;
+package p06.textbook.s060704;
 
 public class Car {
 
