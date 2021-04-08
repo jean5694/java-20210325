@@ -14,6 +14,8 @@ public class A01Class_0406 {
 		// 객체를 만들기 위한 설계도(class) 필요
 		
 		String str = new String("java");
+	//  클래스 변수 = new 클래스 (); 
+	//	new 는 클래스로부터 객체를 생성시키는 연산자
 		Student student1 = new Student(); 
 		Student student2 = new Student();
 		
