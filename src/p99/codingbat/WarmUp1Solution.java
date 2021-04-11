@@ -1,6 +1,32 @@
 package p99.codingbat;
 
 public class WarmUp1Solution {
+
+	public String front3(String str) {
+
+		String front = str;
+
+		if (str.length() > 3) {
+			front = str.substring(0, 3);
+		}
+
+		return front + front + front;
+	}
+
+	public String frontBack(String str) {
+		if (str.length() > 1) {
+			char front = str.charAt(0);
+			char last = str.charAt(str.length() - 1);
+
+			String mid = str.substring(1, str.length() - 1);
+
+			return last + mid + front;
+		}
+
+		return str;
+
+	}
+
 	public String missingChar(String str, int n) {
 		String res = "";
 
