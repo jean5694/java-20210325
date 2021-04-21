@@ -12,7 +12,7 @@ public class ChildExample {
 		
 		Child child = (Child) parent;
 		child.field2 = "yyy";
-		child.method3();
+		child.method3();  
 	}
 }
 

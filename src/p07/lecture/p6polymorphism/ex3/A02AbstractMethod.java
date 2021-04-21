@@ -5,7 +5,8 @@ public class A02AbstractMethod {
 		KindaCat k1 = new Cat();
 		KindaCat k2 = new Tiger();
 		
-		k1.cry();
-		k2.cry();
+		k1.cry(); //야옹
+		k2.cry(); //어흥
+		//실체클래스에서 오버라이딩된 메소드가 호출됨
 	}
 }
