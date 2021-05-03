@@ -17,5 +17,6 @@ public class PrintStreamExample {
 		ps.flush();
 		ps.close();
 		fos.close();
+		
 	}
 }
